@@ -31,9 +31,10 @@ Users can opt to end their staking before the current cycle ends and withdraw th
 Upon unstaking, users will retain their base asset, but the TVL will be reset to 0.
 
 # Diagram
-![image](https://github.com/user-attachments/assets/2242d4e0-f60a-47d8-b580-146d903470f9)
-![image](https://github.com/user-attachments/assets/7d44dee4-f35e-410b-b4f3-2a25edef2d48)
-![image](https://github.com/user-attachments/assets/90ff3c4a-3ead-4021-870b-df561de5359e)
+![image](https://github.com/user-attachments/assets/25188f08-c333-482c-9906-c80ccdc994f2)
+![image](https://github.com/user-attachments/assets/4a918504-83c5-4517-a870-8e12a856c291)
+![image](https://github.com/user-attachments/assets/d368b8b7-be73-411f-af45-494c60d06b78)
+
 
 If you are interested in building this project, please contact to me.
 
